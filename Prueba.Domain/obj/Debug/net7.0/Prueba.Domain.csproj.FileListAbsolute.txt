@@ -1,0 +1,15 @@
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\bin\Debug\net7.0\Prueba.Domain.deps.json
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\bin\Debug\net7.0\Prueba.Domain.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\bin\Debug\net7.0\Prueba.Domain.pdb
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\bin\Debug\net7.0\Prueba.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\bin\Debug\net7.0\Prueba.Infraestructure.pdb
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.csproj.AssemblyReference.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.csproj.CopyComplete
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\refint\Prueba.Domain.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\Prueba.Domain.pdb
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Domain\obj\Debug\net7.0\ref\Prueba.Domain.dll

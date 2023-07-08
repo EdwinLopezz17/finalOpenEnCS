@@ -1,0 +1,14 @@
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\bin\Debug\net7.0\Prueba.Infraestructure.deps.json
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\bin\Debug\net7.0\Prueba.Infraestructure.runtimeconfig.json
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\bin\Debug\net7.0\Prueba.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\bin\Debug\net7.0\Prueba.Infraestructure.pdb
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\refint\Prueba.Infraestructure.dll
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.pdb
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\Prueba.Infraestructure.genruntimeconfig.cache
+C:\Users\edwin\Desktop\Reserved\Prueba\Prueba.Infraestructure\obj\Debug\net7.0\ref\Prueba.Infraestructure.dll
